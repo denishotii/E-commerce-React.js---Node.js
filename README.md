@@ -13,3 +13,7 @@ npm start
 
 
 You need to have node js installed on your pc!!!!!
+
+
+        Denis Hoti
+        email : denisshanihoti@gmail.com
